@@ -1,4 +1,4 @@
-# 📰 AI News App
+# 📰 AI News Summarizer & Sentiment Analyzer
 
 An AI-powered web application that fetches news articles, summarizes them using **BART Transformer** and performs **sentiment analysis** using **DistilBERT**.  
 Built with **Python, Hugging Face Transformers, Flask, and BeautifulSoup**.
