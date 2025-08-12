@@ -54,9 +54,6 @@ python app.py
 
 http://127.0.0.1:5000
 
-📷 Screenshots
-
-
 ⚙️ How It Works
 1.User enters a news article URL.
 2.App scrapes the article content using BeautifulSoup.
